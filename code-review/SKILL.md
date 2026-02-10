@@ -1,4 +1,3 @@
-```markdown
 ---
 name: code-review
 description: Perform a comprehensive code review focusing on correctness, performance, readability, security, and maintainability. Analyzes code changes and returns structured feedback with prioritized issues and actionable suggestions.
@@ -112,4 +111,3 @@ Any broader suggestions such as architectural concerns, refactoring opportunitie
 - If a pattern looks intentional but suboptimal, frame feedback as a question rather than a directive (e.g., "Was this approach chosen for a specific reason? An alternative might be...")
 - When trade-offs exist (e.g., readability vs performance), present both sides and let the author decide
 - Default to the principle of least surprise — flag anything a future maintainer might find confusing
-```
